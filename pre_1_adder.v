@@ -5,7 +5,7 @@ module pre_1_adder(
 
   output SO,
   output Gi,
-  output Pi,
+  output Pi
   );
 
   assign Gi = ain & bin;
